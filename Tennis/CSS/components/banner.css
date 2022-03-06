@@ -1,0 +1,12 @@
+.banner{
+
+background-image: url(../../images/ATP.png);
+color: black;
+padding: 170px 0px;
+background-size: cover;
+background-position: center;
+}
+.banner h1 {
+font-size: 100px;
+}
+

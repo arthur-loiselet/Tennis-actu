@@ -1,0 +1,8 @@
+.btn-black{
+background-color: blue;
+padding: 10px 16px;
+border-radius: 2px;
+color: white;
+font-weight: bold;
+font-family: 'Arial', sans-serif;
+}
